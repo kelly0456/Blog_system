@@ -1,28 +1,18 @@
 {
   "blogs": [
     {
-      "id": "1",
-      "author": "James Brown",
-      "title": "React Js",
-      "content": "React is a JavaScript library used for building user interfaces. It allows developers to create reusable UI components and manage application state efficiently using hooks like useState and useEffect."
+      "author": "Michael Victor",
+      "title": "Introduction to Node.js and API design",
+      "category": "Health",
+      "content": "Node.js is a runtime environment that allows JavaScript to run on the server side. It is built on Chrome's V8 engine and is widely used for building scalable network applications.",
+      "id": "3"
     },
     {
-      "id": "2",
-      "author": "Sarah Johnson",
-      "title": "Understanding JavaScript Closures",
-      "content": "A closure is created when a function remembers variables from its outer scope even after that outer function has finished executing. Closures are commonly used for data privacy and maintaining state."
-    },
-    {
-      "id": "3",
-      "author": "Michael Lee",
-      "title": "Introduction to Node.js",
-      "content": "Node.js is a runtime environment that allows JavaScript to run on the server side. It is built on Chrome's V8 engine and is widely used for building scalable network applications."
-    },
-    {
-      "id": "4",
-      "author": "Emily Davis",
+      "author": "Emily Victor John",
       "title": "CSS Flexbox Guide",
-      "content": "Flexbox is a CSS layout model designed to help distribute space efficiently in a container. It makes it easier to align items vertically and horizontally without using floats or positioning."
+      "category": "Technology",
+      "content": "Flexbox is a CSS layout model designed to help distribute space efficiently in a container. It makes it easier to align items vertically and horizontally without using floats or positioning.",
+      "id": "4"
     },
     {
       "id": "5",
@@ -67,39 +57,11 @@
       "content": "Vite is a modern frontend build tool that provides fast development and optimized production builds. Applications can be deployed to platforms like Netlify or Vercel."
     },
     {
-      "id": "d547",
-      "author": "test",
-      "title": "test",
-      "category": "Technology",
-      "content": "test"
-    },
-    {
       "id": "ec7d",
       "author": "Victor",
       "title": "AI and Its usage",
       "category": "Technology",
       "content": "AI is good!"
-    },
-    {
-      "id": "772a",
-      "author": "test",
-      "title": "test",
-      "category": "Technology",
-      "content": "test"
-    },
-    {
-      "id": "5458",
-      "author": "test",
-      "title": "test again",
-      "category": "Technology",
-      "content": "test"
-    },
-    {
-      "id": "0045",
-      "author": "test",
-      "title": "test",
-      "category": "Technology",
-      "content": "test"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
